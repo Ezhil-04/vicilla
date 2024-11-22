@@ -5,14 +5,14 @@ class specialHeader extends HTMLElement{
         this.innerHTML=`  <nav class="re_nav">
         <ul class="re_sidebar">
             <li class="re_xmark_icon"><svg xmlns="http://www.w3.org/2000/svg" height="40px" viewBox="0 -960 960 960" width="48px" fill="#5f6368"><path d="m249-207-42-42 231-231-231-231 42-42 231 231 231-231 42 42-231 231 231 231-42 42-231-231-231 231Z"/></svg></li>
-           <li><a href="categories.html"> Home </a> </li>
+           <li><a href="index.html"> Home </a> </li>
            <li><a  href="contact.html#about"> About us</a> </li>
             <li><a href="contact.html">Contact Us</a></li>
      
         </ul>
         <ul class="re_sidebarone">
             <li><a id="brandname" href="">Vicilla</a></li>
-               <li class="re_removable"><a href="categories.html"> Home </a> </li>
+               <li class="re_removable"><a href="index.html"> Home </a> </li>
            <li class="re_removable"><a  href="contact.html#about"> About us </a> </li>
             <li class="re_removable"><button id="contact_btn"><a href="contact.html">Contact Us</a></button></li>
           
